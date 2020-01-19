@@ -46,3 +46,4 @@ OneHotEncoder class has two key methods:
   2. transform to apply the OneHot transform to the data, the transform can be applied to other (e.g. test) datasets.
 
 **CONCLUSION:**
+Supervised Machine Learning technique Decision Tree is implemented on various examples, shown above.
