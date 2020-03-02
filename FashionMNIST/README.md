@@ -13,9 +13,9 @@ Experiment with different types of algorithms (ensembles, bagging, boosting, ran
 
 **ALGORITHM USED:** Decision Tree Algorithm
 
-[Click here for code](https://github.com/ktyagi12/Projects/tree/master/FashionMNIST/code)
+[Click here for code](https://github.com/ktyagi12/MachineLearning_Python/tree/master/FashionMNIST/code)
 
-[Click here for input](https://github.com/ktyagi12/Projects/tree/master/FashionMNIST/input)
+[Click here for input](https://github.com/ktyagi12/MachineLearning_Python/tree/master/FashionMNIST/input)
 
 [Click here for Training Data](https://www.kaggle.com/zalando-research/fashionmnist)
 
