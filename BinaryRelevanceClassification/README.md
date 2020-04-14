@@ -2,11 +2,11 @@
 
 **AIM:** Detect the multi classes a yeast gene is associated to.
 
-**PROGRAMMING LANGUAGE USED:** Python
+**PROGRAMMING LANGUAGE:** Python
 
 **IDE:** Jupyter Notebook
 
-**Algorithm Used:** Decision Tree, Logistic Regression, RandomForest Classifier, Gaussian Naive Bayes
+**ALGORITHM:** Decision Tree, Logistic Regression, RandomForest Classifier, Gaussian Naive Bayes
 
 **INPUT:** Yeast Dataset
 
