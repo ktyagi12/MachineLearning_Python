@@ -1,6 +1,6 @@
-## MULTI-CLASS CLASSIFICATION
+## MULTI-LABEL CLASSIFICATION
 
-**AIM:** Detect the multi classes a yeast gene is associated to.
+**AIM:** Detect the multi labels a yeast gene is associated to.
 
 **PROGRAMMING LANGUAGE:** Python
 
