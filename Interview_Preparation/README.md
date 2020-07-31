@@ -11,8 +11,13 @@ Potential Answer: Machine learning is a tool for turning information into knowle
    To learn the rules governing a phenomenon, machines have to go through a learning process, trying different rules and learning from how well they perform. Hence, why it’s known as Machine Learning.
   
   
-  
-  
+<h3>2. What is Supervised and Unsupervised Learning ?</h3>
+
+Potential Answer:  
+
+Supervised Learning: Labelled Data, Regression & classification, Map labelled input to output.
+
+Unsupervised Learning: Unlabeled Data, Association & Clustering, understand pattern and discover output.
   
 **REFERENCES:**
 
