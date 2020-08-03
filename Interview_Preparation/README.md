@@ -18,7 +18,24 @@ Potential Answer:
 Supervised Learning: Labelled Data, Regression & classification, Map labelled input to output.
 
 Unsupervised Learning: Unlabeled Data, Association & Clustering, understand pattern and discover output.
+
+
+
+<h3>3.What do you understand by Precision and Recall?</h3>
+Potential Answer:  Let me explain you this with an analogy:
+
+Imagine that, your girlfriend gave you a birthday surprise every year for the last 10 years. One day, your girlfriend asks you: ‘Sweetie, do you remember all the birthday surprises from me?’
+To stay on good terms with your girlfriend, you need to recall all the 10 events from your memory. Therefore, recall is the ratio of the number of events you can correctly recall, to the total number of events.
+If you can recall all 10 events correctly, then, your recall ratio is 1.0 (100%) and if you can recall 7 events correctly, your recall ratio is 0.7 (70%)
+However, you might be wrong in some answers.
+Recall/Sensitivity/True Positive Rate(TPR): (TP/TP+FN)
+
+For example, let’s assume that you took 15 guesses out of which 10 were correct and 5 were wrong. This means that you can recall all events but not so precisely
+Therefore, precision is the ratio of a number of events you can correctly recall, to the total number of events you can recall (mix of correct and wrong recalls).
+From the above example (10 real events, 15 answers: 10 correct, 5 wrong), you get 100% recall but your precision is only 66.67% (10 / 15)
+Precision: (TP/TP+FP)
   
 **REFERENCES:**
 
 Medium. 2020. Machine Learning | An Introduction. [online] Available at: <https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0> [Accessed 28 July 2020].
+
