@@ -35,6 +35,21 @@ Therefore, precision is the ratio of a number of events you can correctly recall
 From the above example (10 real events, 15 answers: 10 correct, 5 wrong), you get 100% recall but your precision is only 66.67% (10 / 15)
 Precision: (TP/TP+FP)
   
+  
+<h3>4.Explain the concept of Decision Tree.</h3>
+
+Links to refer:
+
+1. https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+  
+2. https://www.displayr.com/machine-learning-pruning-decision-trees/#:~:text=Pruning%20reduces%20the%20size%20of,pruning%20can%20reduce%20this%20likelihood.
+  
+3. https://saedsayad.com/decision_tree_reg.htm#:~:text=The%20ID3%20algorithm%20can%20be,Gain%20with%20Standard%20Deviation%20Reduction.&text=A%20decision%20tree%20is%20built,with%20similar%20values%20(homogenous).
+  
+
+
+  
+  
 **REFERENCES:**
 
 Medium. 2020. Machine Learning | An Introduction. [online] Available at: <https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0> [Accessed 28 July 2020].
