@@ -21,7 +21,7 @@ Unsupervised Learning: Unlabeled Data, Association & Clustering, understand patt
 
 
 
-<h3>3.What do you understand by Precision and Recall?</h3>
+<h3>3. What do you understand by Precision and Recall?</h3>
 Potential Answer:  Let me explain you this with an analogy:
 
 Imagine that, your girlfriend gave you a birthday surprise every year for the last 10 years. One day, your girlfriend asks you: ‘Sweetie, do you remember all the birthday surprises from me?’
@@ -36,7 +36,7 @@ From the above example (10 real events, 15 answers: 10 correct, 5 wrong), you ge
 Precision: (TP/TP+FP)
   
   
-<h3>4.Explain the concept of Decision Tree.</h3>
+<h3>4. Explain the concept of Decision Tree.</h3>
 
 Links to refer:
 
@@ -46,8 +46,10 @@ Links to refer:
   
 3. https://saedsayad.com/decision_tree_reg.htm#:~:text=The%20ID3%20algorithm%20can%20be,Gain%20with%20Standard%20Deviation%20Reduction.&text=A%20decision%20tree%20is%20built,with%20similar%20values%20(homogenous).
   
+<h3>5. Ways to haandle imbalanced data </h3>
 
-
+Link to refer:
+1. https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
   
   
 **REFERENCES:**
