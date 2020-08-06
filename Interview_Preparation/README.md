@@ -46,12 +46,20 @@ Links to refer:
   
 3. https://saedsayad.com/decision_tree_reg.htm#:~:text=The%20ID3%20algorithm%20can%20be,Gain%20with%20Standard%20Deviation%20Reduction.&text=A%20decision%20tree%20is%20built,with%20similar%20values%20(homogenous).
   
-<h3>5. Ways to haandle imbalanced data </h3>
+
+<h3>5. Ways to handle imbalanced data </h3>
 
 Link to refer:
 1. https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
   
-  
+
+<h3>6. Bias- Variance Trade Off </h3>
+
+Link to refer:
+
+1. https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
+
+
 **REFERENCES:**
 
 Medium. 2020. Machine Learning | An Introduction. [online] Available at: <https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0> [Accessed 28 July 2020].
