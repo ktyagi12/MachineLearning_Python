@@ -60,6 +60,14 @@ Link to refer:
 1. https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
 
 
+<h3>7. Explain the concept of Cross Validation: </h3>
+
+Links to refer:
+1. https://towardsdatascience.com/why-and-how-to-cross-validate-a-model-d6424b45261f
+
+2. https://machinelearningmastery.com/k-fold-cross-validation/
+
+
 **REFERENCES:**
 
 Medium. 2020. Machine Learning | An Introduction. [online] Available at: <https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0> [Accessed 28 July 2020].
