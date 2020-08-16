@@ -68,6 +68,15 @@ Links to refer:
 2. https://machinelearningmastery.com/k-fold-cross-validation/
 
 
+
+**<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
+
+<h3>1. What is the need of deep learning if Machine Learning can solve?</h3>
+
+Links to refer: 
+
+https://quantdare.com/what-is-the-difference-between-deep-learning-and-machine-learning/
+
 **REFERENCES:**
 
 Medium. 2020. Machine Learning | An Introduction. [online] Available at: <https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0> [Accessed 28 July 2020].
