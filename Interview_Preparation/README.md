@@ -22,7 +22,19 @@ Potential Answer:
 
 Supervised Learning: Labelled Data, Regression & classification, Map labelled input to output.
 
+The algorithm learns on a labeled dataset, providing an answer key that the algorithm can use to evaluate its accuracy on training data. 
+
+It develops a predictive model based on both input and output.
+
+![image](https://user-images.githubusercontent.com/38240162/90569357-a8703200-e1a5-11ea-92ec-4f5c71c255cb.png)
+
 Unsupervised Learning: Unlabeled Data, Association & Clustering, understand pattern and discover output.
+
+It provides unlabeled data that the algorithm tries to make sense of by extracting features and patterns on its own.
+
+It groups and interpret the data based on the input data only.
+
+![image](https://user-images.githubusercontent.com/38240162/90569316-955d6200-e1a5-11ea-9a57-c6e2f8ed8fed.png)
 
 
 
