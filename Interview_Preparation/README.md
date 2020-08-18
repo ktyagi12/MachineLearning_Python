@@ -85,6 +85,15 @@ Links to refer:
 2. https://machinelearningmastery.com/k-fold-cross-validation/
 
 
+<h3>8. Explain the concept of Logistic Regression.
+
+Links to refer:
+1. https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+
+2. https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102
+  
+![image](https://user-images.githubusercontent.com/26432753/90569620-1b79a880-e1a6-11ea-8030-879e3fd2891d.png)
+
 
 **<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
 
