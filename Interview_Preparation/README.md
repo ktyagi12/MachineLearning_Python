@@ -55,6 +55,16 @@ Precision: (TP/TP+FP)
   
 <h3>4. Explain the concept of Decision Tree.</h3>
 
+Pointers to remember:
+  1. Supervised ML technique
+  2. Used for both Classification and Regression technique, aka "CART".
+  3. Whatever knowledge Dec Tree learns through training phase, it formulates that to a hierarchical structure.
+  4. It consists of 2 steps:
+    
+    a. Induction (Process of building of decision tree)
+    
+    b. Pruning (Removal of unnecessary branches from the tree which do not contribute to the predictive power of classifier.)
+    
 Links to refer:
 
 1. https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
@@ -63,6 +73,7 @@ Links to refer:
   
 3. https://saedsayad.com/decision_tree_reg.htm#:~:text=The%20ID3%20algorithm%20can%20be,Gain%20with%20Standard%20Deviation%20Reduction.&text=A%20decision%20tree%20is%20built,with%20similar%20values%20(homogenous).
   
+4. https://towardsdatascience.com/a-guide-to-decision-trees-for-machine-learning-and-data-science-fe2607241956
 
 <h3>5. Ways to handle imbalanced data </h3>
 
