@@ -106,6 +106,31 @@ Links to refer:
 ![image](https://user-images.githubusercontent.com/26432753/90569620-1b79a880-e1a6-11ea-8030-879e3fd2891d.png)
 
 
+<h3>9. Explain the concept of Random Forest.
+
+Points to remember:
+  
+  1. Supervised ML technique
+  
+  2. Used for both Classification and Regression tasks.
+  
+  3. It uses a group of uncorelated decision trees which acts as a group, ense,ble outperforms any individual decision tree.
+  
+  4. Two things it considers:
+      
+      a. Random sampling of the training data when building the random forest.
+      
+      b. Random subset of features when splitting the node.
+  
+  5. The random forest combines hundreds or thousands of decision trees, trains each one on a slightly different set of the observations, splitting nodes in each tree considering a limited number of the features. The final predictions of the random forest are made by averaging the predictions of each individual tree.
+  
+  
+Links to refer:
+
+1. https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76
+
+2. https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+
 **<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
 
 <h3>1. What is the need of deep learning if Machine Learning can solve?</h3>
