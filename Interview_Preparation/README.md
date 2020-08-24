@@ -83,9 +83,16 @@ Link to refer:
 
 <h3>6. Bias- Variance Trade Off </h3>
 
-Link to refer:
+Links to refer:
 
 1. https://towardsdatascience.com/top-30-data-science-interview-questions-7dd9a96d3f5c
+2. https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
+
+![image](https://user-images.githubusercontent.com/38240162/91093394-473ad980-e651-11ea-90ff-ed392e9de4f8.png)
+
+![image](https://user-images.githubusercontent.com/38240162/91093492-6c2f4c80-e651-11ea-9560-0aea750c3bdd.png)
+
+![image](https://user-images.githubusercontent.com/38240162/91093530-7c472c00-e651-11ea-8c70-98d2ebd3bb85.png)
 
 
 <h3>7. Explain the concept of Cross Validation: </h3>
@@ -106,7 +113,7 @@ Links to refer:
 ![image](https://user-images.githubusercontent.com/26432753/90569620-1b79a880-e1a6-11ea-8030-879e3fd2891d.png)
 
 
-<h3>9. Explain the concept of Random Forest.
+<h3>9. Explain the concept of Random Forest.</h3>
 
 Points to remember:
   
