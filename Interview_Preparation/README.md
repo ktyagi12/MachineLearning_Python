@@ -138,6 +138,28 @@ Links to refer:
 
 2. https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
+
+<h3>Naive Bayes Concept: </h3>
+ 
+Potential Answer: 
+Naive Bayes is a probabilisitic ML model based on Bayes algorithm. It is majorly used for Classification tasks.
+
+![image](https://user-images.githubusercontent.com/38240162/91096728-69832600-e656-11ea-9f6a-9323b7b9bed8.png)
+
+Advantages:
+  1. Easy to implement.
+  2. Fast execution.
+  3. Used for Sentiment Analysis, Recommender System.
+  4. Performs better than more complicated models when the data set is small.
+  
+Disadvantages:
+  1. The requirement of predictors to be independent.
+  
+Link to refer:
+ 
+1. https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
+
+
 **<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
 
 <h3>1. What is the need of deep learning if Machine Learning can solve?</h3>
