@@ -77,8 +77,24 @@ Links to refer:
 
 <h3>5. Ways to handle imbalanced data </h3>
 
-Link to refer:
+Potential Answer:
+
+Imbalanced Dataset: Classification task where the classes are not equally distributed.
+
+Ways to handle them:
+
+1. Use appropriate evaluation metric.
+2. Resampling:
+  2a. Undersampling
+  2b. Oversampling
+3. Cross-Validation
+4. Ensemble of resampled dataset.
+5. Resample of different ratio.
+
+
+Links to refer:
 1. https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html
+2. https://www.researchgate.net/post/How_10-fold_cross_validation_helps_to_handle_the_imbalance_data_set
   
 
 <h3>6. Bias- Variance Trade Off </h3>
@@ -96,11 +112,29 @@ Links to refer:
 
 
 <h3>7. Explain the concept of Cross Validation: </h3>
+Potential Answer:
+
+Cross-validation is a statistical method used to estimate the skill of machine learning models. It is a resampling procedure to evaluate ML models on a limited dataset.
+
+**k in K-fold Cross Validation is the number of groups that a given data sample is to be split into.**
+
+Procedure:
+  1. Shuffle the dataset randomly.
+  2. Split the dataset into k groups
+  3. For each unique group:
+      3.1 Take the group as a hold out or test data set.
+      
+      3.2 Take the remaining groups as a training data set.
+      
+      3.3 Fit a model on the training set and evaluate it on the test set.
+      
+      3.4 Retain the evaluation score and discard the model.
+  4. Summarize the skill of the model using the sample of model evaluation scores
 
 Links to refer:
 1. https://towardsdatascience.com/why-and-how-to-cross-validate-a-model-d6424b45261f
-
 2. https://machinelearningmastery.com/k-fold-cross-validation/
+3. https://stats.stackexchange.com/questions/416553/can-k-fold-cross-validation-cause-overfitting
 
 
 <h3>8. Explain the concept of Logistic Regression.
@@ -139,7 +173,7 @@ Links to refer:
 2. https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
 
-<h3>Naive Bayes Concept: </h3>
+<h3>10. Naive Bayes Concept: </h3>
  
 Potential Answer: 
 Naive Bayes is a probabilisitic ML model based on Bayes algorithm. It is majorly used for Classification tasks.
