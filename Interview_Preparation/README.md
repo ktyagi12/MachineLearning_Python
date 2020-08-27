@@ -194,6 +194,20 @@ Link to refer:
 1. https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
 
 
+<h3>11. What is Ensemble learning: </h3>
+
+Potential Answer: 
+
+Ensemble is a Machine Learning concept in which the idea is to train multiple models using the same learning algorithm. The ensembles take part in a bigger group of methods, called multiclassifiers, where a set of hundreds or thousands of learners with a common objective are fused together to solve the problem. 
+
+
+![image](https://user-images.githubusercontent.com/38240162/91494368-a21e3c00-e8b0-11ea-95e1-8e9da5e7c835.png)
+
+Links to refer:
+1. https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
+
+
+
 **<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
 
 <h3>1. What is the need of deep learning if Machine Learning can solve?</h3>
