@@ -207,6 +207,25 @@ Links to refer:
 1. https://quantdare.com/what-is-the-difference-between-bagging-and-boosting/
 
 
+<h3>12. What are some performance metrics? </h3>
+
+Potential Answer: 
+Performance metrics are a means to find out how effective is your model, in order to  evaluate the performance of the machine learning algorithm, they are used.
+
+1. Accuracy
+2. Precision
+3. Recall
+4. F1 Score
+5. AUC ROC
+6. Log Loss
+7. Root Mean Squared Error
+8. Confusion Matrix
+
+Links to refer:
+1. https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b#:~:text=We%20can%20use%20classification%20performance,primarily%20used%20by%20search%20engines.
+2. https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
+
+
 
 **<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
 
