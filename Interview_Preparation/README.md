@@ -226,6 +226,13 @@ Links to refer:
 2. https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
 
 
+<h3>13. Kmeans Clustering? </h3>
+
+Links to refer:
+1. https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
+2. https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+3. https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+
 
 **<h2>DEEP LEARNING INTERVIEW QUESTIONS</h2>**
 
